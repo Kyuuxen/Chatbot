@@ -1,10 +1,11 @@
 module.exports = {
   config: {
-    name: "freesms",
+    name: "sms",
     version: "1.0.0",
     author: "Yan Maglinte",
     category: "Communication",
-    description: "Sends a free SMS message",
+    description:"Sends a free SMS message",
+    usePrefix: false,
     usage: "[recipient_number] [message]",
     cooldown: 60,
   },
