@@ -2,13 +2,13 @@
   "PAGE_ACCESS_TOKEN": "EAAPuaveaDZAIBOxXFheHCcvdIUllGLZANSgeQX7j4YzsVqMCq1cpM3s14qfFJzBib3xe6WAecIoVWL7ak9yN1TIq8SLxY5xcOWWDiJxz378B5jtd1GXQFgrU7eo2rjG9sP4deQSO8o0E9NG0PWT5rakNFJ3xw9xpqHtDbNNZAdlH8DRfigA69yfPsanc6xb8QZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "8456100521094362"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "Zyumi",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Hanz Jongco",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
