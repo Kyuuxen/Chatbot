@@ -3,6 +3,7 @@ const axios = require('axios');
 module.exports = {
   name: 'freesms',
   description: 'freesms <phoneNumber> <message>.',
+  usePrefix: false,
   author: 'Dale/<your name>',
   async execute(senderId, args, pageAccessToken, sendMessage) {
     const phoneNumber = args[0];
